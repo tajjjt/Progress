@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Tahjmere Turner
 
 #### Your section leader's name
 
-TODO
+Tahjmere
 
 #### Project title
 
-TODO
+Blender lighting plug in
 
 ***
 
@@ -18,12 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
-
+I have made the lighting set up in blender to 
 #### What have you not done for your project yet?
 
-TODO
+Coded the plug in
 
 #### What problems, if any, have you encountered?
 
-TODO
+I dont have any problems i just have to start coding and find out my theme for my plug in
